@@ -1,4 +1,4 @@
-#Prime Numbers
+# Prime Numbers
 
 This small project involves two service that work together to compute all the prime numbers up to a given natural positive number.
 The techonologies that integrate this project are:
